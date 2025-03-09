@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="EPG_url"
 #EXTINF:-1 ,Band
 http://168.205.87.198:8555/live/1438/123456/19.ts
 #EXTINF:-1 ,PORTAL
